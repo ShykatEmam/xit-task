@@ -120,6 +120,7 @@ button{
 /* Works css style  */
 .works{
   margin-top: 120px;
+  margin-left: 30px;
 }
 
 .works-1 {
@@ -314,10 +315,28 @@ button{
   }
   .main-button{
     width: 200px;
+    margin-bottom: 50px;
   }
   .works{
-    padding: 5px;
+    margin: 0px;
+    padding: 10px;
   }
+  .works img{
+    margin-top: 10px;
+  }
+  .content-footer{
+    margin-top: 15px;
+  }
+  .footer-p-text{
+    margin-top: 25px;
+  }
+  .download{
+    margin-top: 50px;
+  }
+  .dot-margin{
+    margin-left: 33%;
+  }
+
 
 
 }
