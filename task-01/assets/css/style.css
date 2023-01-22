@@ -298,25 +298,6 @@ button{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 700px) {
   .hero h1{
     font-size: 18px!important;
@@ -328,5 +309,15 @@ button{
     width: 25px;
     font-size: 13px;
   }
+  .hero{
+    margin: 25px;
+  }
+  .main-button{
+    width: 200px;
+  }
+  .works{
+    padding: 5px;
+  }
+
 
 }
